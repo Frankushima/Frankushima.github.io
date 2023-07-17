@@ -55,7 +55,7 @@ enforce_ssl: http://Frankushima.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/reverie"
+# baseurl: "/reverie"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -67,7 +67,7 @@ permalink: /:title/
 version: v1.2.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
-kramdown:
+kramdown:ß
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
   # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
