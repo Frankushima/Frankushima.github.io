@@ -17,7 +17,7 @@ Firstly, getting replay data from Rocket League is super annoying as the game do
 
 So, we decided to work with model distillation, basically training a smaller model off the outputs of a larger model. We chose to use Nexto, the current best Rocket League model, as our larger model. However, this was too effective and the model was essentially a worse version of Nexto and any training that we did had little to no effect on the model as it was basically too good for us to work with.
 
-So, we decided to experiment with different modern reinforcement learning techniques in order to see how they performed at a simple task in Rocket League, dribbling the ball. In this game, that's essentially balancing the ball on the top of the car. We felt that this was a good enough test as it mirrored the inverted pendulum problem (a common RL benchmark), but more complex.
+So, we decided to experiment with different modern reinforcement learning techniques (A2C, TRPO, PPO) in order to see how they performed at a simple task in Rocket League, dribbling the ball. In this game, that's essentially balancing the ball on the top of the car. We felt that this was a good enough test as it mirrored the inverted pendulum problem (a common RL benchmark), but more complex.
 
 One of my teammates also insisted that we did all reports in LaTeX, which was super annoying at first. But come on man, look at how cool our report looks.
 
