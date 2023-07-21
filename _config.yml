@@ -95,6 +95,7 @@ paginate_path: /page:num/
 # Exclude these files from your production _site
 exclude:
   - Gemfile
+  - vendor/bundle
   - Gemfile.lock
   - LICENSE
   - README.md
