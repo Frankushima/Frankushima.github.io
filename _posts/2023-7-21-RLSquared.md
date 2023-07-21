@@ -4,7 +4,7 @@ title:  RL Squared
 ---
 
 <center>
-    <iframe width="720" height="700"
+    <iframe width="720" height="400"
     src="https://www.youtube.com/embed/ZWH6Dsueeps">
     </iframe>
 </center>
